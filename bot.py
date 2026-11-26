@@ -12,7 +12,7 @@ from aiogram.enums import ParseMode
 
 # --- НАСТРОЙКИ ---
 BOT_TOKEN = "9165469558:AAFkzyUjnbx6QmWQ21y4OzAYOKzaOgB4Uq4" 
-WEBAPP_URL = "https://ваш-домен.com/index.html" 
+WEBAPP_URL = "https://naleskin2000-netizen.github.io/index.html/" 
 ADMIN_ID = 8880934795  
 
 bot = Bot(BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
